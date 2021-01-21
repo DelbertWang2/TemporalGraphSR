@@ -4,7 +4,7 @@ This is the code of the algorithm proposed in “Temporal Graph Super Resolution
 
 # 1	Requirements：
 1.	Matlab (tested with Matlab 2018b on Windows 10)
-2.	Matpower toolbox of Matlab (provided in the attachment)
+2.	Matpower toolbox of Matlab (matpower7.0b1)
 3.	Python (tested with python 3.6, tested on Linux and Windows 10)
 4.	Pytorch =1.1 (GPU version)
 5.	Numpy = 1.16.3
